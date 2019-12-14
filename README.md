@@ -3,7 +3,7 @@ Data Science Capstone Project  - John Hopkins University via Coursera
 Linda Zahora-Cathcart
 
   *   Week 2 Milestone Report:  http://rpubs.com/ljzahora/milestone_report
-  *   Shiny App: https://lzcathcart.shinyapps.io/cap2/
+  *   Shiny App: https://lzcathcart.shinyapps.io/capstone/
   *   Shiny App Presentation: direct link
 
 Resources:
