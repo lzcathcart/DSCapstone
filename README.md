@@ -1,4 +1,4 @@
-Data Science Capstone Project  - John Hopkins University via Coursera
+Data Science Capstone Project  - John Hopkins University Data Science Specialization via Coursera
 
 Linda Zahora-Cathcart
 
