@@ -2,9 +2,12 @@ Data Science Capstone Project  - John Hopkins University Data Science Specializa
 
 Linda Zahora-Cathcart
 
-  *   Week 2 Milestone Report:  http://rpubs.com/ljzahora/milestone_report
-  *   
-References and Links:
+You'll find the below links helpful for deciphering how the project was accomplished. 
+
+REFERENCES and LINKS
+
+Week 2 Milestone Report:  
+http://rpubs.com/ljzahora/milestone_report
 
 Shiny App:
 https://lzcathcart.shinyapps.io/capstone/
